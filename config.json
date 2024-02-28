@@ -1,0 +1,7 @@
+{
+  "token": "Cюда ваш токен бота", 
+  "prefix": "!", //По default стоит !
+  "everyoneMention": false,
+  "copyright": "GiveawayBot",
+  "hostedBy": true
+}
